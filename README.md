@@ -1,2 +1,2 @@
 # shownode
-search for and connect tp docker containers with vnc ports open
+search for and connect to docker containers with vnc ports open
